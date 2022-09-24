@@ -1,3 +1,5 @@
+This file contains Declare statements for many functions in the Microsoft Windows API for use with Visual Basic for Applications (VBA) and Microsoft Office 2010 on 32-bit (x86) and 64-bit (x64) platforms.
+
 ## Windows API Declarations for VBA Usage
 1. After reading this usage, click the link [Windows API Declarations for VBA Data Text](./Windows-API-Declarations-for-VBA.vba) to open the data text page.
 2. In newly opened webpage, press Ctrl + F to open the dialog to search in page scope.
